@@ -1,5 +1,5 @@
 # personal-portfolio
-http://students.washington.edu/your-net-id/info343/personal-portfolio
+http://students.washington.edu/chrisli8/info343/personal-portfolio
 
 Almost there, need to connect the firebase data with the $scope variable in the controller
 
