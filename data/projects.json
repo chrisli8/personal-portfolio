@@ -1,0 +1,35 @@
+{"projects" :[
+	{
+		"title" : "Dawg Coffee",
+		"title2" : "Utilizes Bootstrap",
+		"about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"imgUrl" : "img/dawg-coffee-img.png",
+		"projectUrl" : "http://students.washington.edu/chrisli8/info343/dawg-coffee/"
+	},
+
+	{
+		"title" : "Spotify Challenge",
+		"title2" : "Utilizes Spotify API & Angular",
+		"about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"imgUrl" : "img/spotify-challenge-img.png",
+		"projectUrl" : "http://students.washington.edu/chrisli8/info343/spotify-challenge"
+	},
+
+	{
+		"title" : "Police Shootings",
+		"title2" : "Utilizes Leaflet Library",
+		"about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"imgUrl" : "img/police-shooting-img.png",
+		"projectUrl" : "http://students.washington.edu/chrisli8/info343/police-shooting"
+	},
+
+	{
+		"title" : "Family Photo",
+		"title2" : "Utilizes Parse Library",
+		"about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"imgUrl" : "img/family-photo-img.png",
+		"projectUrl" : "http://students.washington.edu/chrisli8/info343/family-photo"
+	}
+
+
+]}

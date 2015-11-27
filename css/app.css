@@ -1,3 +1,5 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+
 .header {
 	/*border-bottom:1px solid #e3e3e3;*/
 	background-color: #DB0755; /*#DB4307;*/
@@ -26,6 +28,30 @@
 	overflow: hidden;
 }
 
+#home-info {
+	height: 200px;
+	background-color: #DBDCE3;
+	overflow: hidden;
+}
+
+i {
+	/*display: block;
+	margin-right: auto;
+	margin-left: auto;*/
+	color:#DB0755;
+}
+
+#home-info h2 {
+	text-align: center;
+}
+
+#home-info span {
+	text-align: center;
+}
+
+h3 {
+	font-size: 20px;
+}
 /*about page styles
 ================================*/
 

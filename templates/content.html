@@ -1,5 +1,16 @@
-<div id="content-background">
-	<div class="project-div">
+<div id="content-background" >
+	<p ng-show="{{projects === undefined}}">Show this if $scope.projects === undefined</p>
+
+	<div class="project-div" ng-repeat="project in projects.projects">
+		<a ng-href="{{project.projectUrl}}" ><img class="project-img" ng-src="{{project.imgUrl}}" alt="project"></img></a>
+		<h1>{{project.title}}</h1>
+		<h2>{{project.title2}}</h2>
+		<p>
+			{{project.about}}
+		</p>
+	</div>
+
+	<!-- <div class="project-div">
 		<a href="http://students.washington.edu/chrisli8/info343/dawg-coffee" ><img class="project-img" src="img/dawg-coffee-img.png" alt="project"></img></a>
 		<h1>Dawg Coffee</h1>
 		<h2>Utilizes Bootstrap</h2>
@@ -53,6 +64,5 @@
 			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</p>
-	</div>
+	</div> -->
 </div>
-

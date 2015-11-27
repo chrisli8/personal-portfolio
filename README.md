@@ -1,7 +1,7 @@
 # personal-portfolio
 http://students.washington.edu/your-net-id/info343/personal-portfolio
 
-Data diven features will be added tommorrow.
+Almost there, need to connect the firebase data with the $scope variable in the controller
 
 Took somewhere around 12-16 hours.
 
