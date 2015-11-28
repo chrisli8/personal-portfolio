@@ -1,7 +1,7 @@
 # personal-portfolio
 http://students.washington.edu/chrisli8/info343/personal-portfolio
 
-Almost there, need to connect the firebase data with the $scope variable in the controller
+Finally Data driven. Planned features: research page & better home page
 
 Took somewhere around 12-16 hours.
 
