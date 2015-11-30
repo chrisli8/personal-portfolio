@@ -35,9 +35,6 @@
 }
 
 i {
-	/*display: block;
-	margin-right: auto;
-	margin-left: auto;*/
 	color:#DB0755;
 }
 
@@ -45,7 +42,8 @@ i {
 	text-align: center;
 }
 
-#home-info span {
+#home-info div {
+	display: inline-block;
 	text-align: center;
 }
 
